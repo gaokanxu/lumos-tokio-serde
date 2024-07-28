@@ -11,7 +11,7 @@ To use `tokio-serde`, first add this to your `Cargo.toml`:
 
 ```toml
 [dependencies]
-tokio-serde = "0.9"
+lumos-tokio-serde = "0.9.0"
 ```
 
 Next, add this to your crate:
